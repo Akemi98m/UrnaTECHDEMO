@@ -14,3 +14,8 @@ na pagina principal do projeto da Urna no Github (este site), clique no botao ve
 em seguida extraia o ZIP e de 2 cliques em *urna.exe* ou abra o cmd e utilize `cd Downloads/urnaTECHDEMO` e `urna.exe`.
 
 # ALTERNATIVA SE VOCE TEM MEDO DE MALWARES PELO .ZIP
+
+na parte direita voce consegue ver algo escrito *URNA.EXE ALT* clique nele e role pra baixo e clique em `urna.exe`
+
+
+![debdog-20250427111706](https://github.com/user-attachments/assets/f4946413-9e8a-4e15-814f-00c0781ca0a0)
